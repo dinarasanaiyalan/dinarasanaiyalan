@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dinarasanaiyalan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java with Spring boot
+- 🌱 I’m currently working as a Software Engineer
 - 💞️ I’m looking to collaborate on massive and complicated java projects
-- 📫 How to reach me 7639045092
+- 📫 To reach me, DM me on Instagaram @solution1maker
 
 <!---
 dinarasanaiyalan/dinarasanaiyalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
